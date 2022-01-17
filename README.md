@@ -48,13 +48,11 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<img height="100%" alt="Thanks for visiting my profile!" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+
 - :telescope: I’m currently working on JS/React applications
 - :seedling: I’m currently learning Java
 - :speech_balloon: Ask me about anything!
 - :crown: Fun fact: I love baking!
-
-
 <!--
 ## Skills & Experience
 Ruby - Ruby on Rails - SQL - JavaScript - React - HTML - CSS - Material-UI - Semantic-UI
