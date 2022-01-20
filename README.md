@@ -11,7 +11,8 @@
 <!-- I’m excited to share my eCommerce support experience with my new expertise in programming to launch a new career as a developer!!  -->
 <p align="center">
   <samp>
- Hi there! My name is Haarika Ramadugu and I am a Full-Stack Jr. Software Developer from San Jose,CA. I graduated from Flatiron School's full-immersive software engineering bootcamp in January 2022 and have a passion for building web applications as well as good analytical skills for technical problem solving. With a background in IT and eCommerce Support, I've collaborated cross-platform intergration for user front-end programs ensuring ease of use for B2B.
+ Hi there! My name is Haarika Ramadugu and I am a Full-Stack Jr. Software Developer from San Jose,CA. I graduated from Flatiron School's full-immersive software engineering bootcamp in January 2022 and have a passion for building web applications as well as good analytical skills for technical problem solving. With a background in IT and eCommerce Support,, I can relate to both the customer feedbacks and engineers’ struggles. I am excited to combine my problem-solving skills and working with customers with my new software development skills!
+
   </samp>
   </p>
   <br>
